@@ -20,7 +20,7 @@ const Header = () => (
         ))}
       </ul>
     </nav>
-    <Hamburger />
+    {/* <Hamburger /> */}
   </header>
 );
 

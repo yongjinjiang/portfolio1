@@ -1,14 +1,20 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Fudan University',
+    degree: 'Ph.D. Theoretical Physics',
+    link: 'https://www.fudan.edu.cn/en/',
+    year: 2002,
   }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Suzhou University',
+    degree: 'M.S. Theoretical Physics',
+    link: 'http://eng.suda.edu.cn/',
+    year: 1999,
+  },
+  {
+    school: 'Ningbo University',
+    degree: 'B.S. Applied Physics',
+    link: 'http://studyinnbu.com/',
+    year: 1996,
   },
 ];
 

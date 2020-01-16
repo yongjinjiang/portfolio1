@@ -10,7 +10,7 @@ const Cell = ({ data }) => (
         <h3><a href={data.link}>{data.title}</a></h3>
         <time className="published">{dayjs(data.date).format('MMMM, YYYY')}</time>
       </header>
-      <a href={data.link} className="image">
+      <a target="_blank" href={data.link} className="image">
         <img src={url.resolve(BASE_PATH, data.image)} alt={data.title} />
       </a>
       <div className="description">
