@@ -55,46 +55,47 @@ const positions = [
       'Published more than 30 scientific papers (see here for my publication list) with more than 1000 citations. Won a research leadership award.  ',
       'Mentored 20 undergraduates and 10 postgraduates.',
     ],
-  }, {
-    company: 'Planetary Resources',
-    position: 'Avionics Intern',
-    link: 'http://planetaryresources.com',
-    daterange: 'January 2018 - May 2018',
-    points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
-    ],
-  }, {
-    company: 'Facebook',
-    position: 'Intern',
-    link: 'https://facebook.com',
-    daterange: 'June 2013 - September 2013',
-    points: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
-    ],
-  }, {
-    company: 'SEDS-USA',
-    position: 'At Large Board Member',
-    link: 'http://seds.org',
-    daterange: 'October 2013 - October 2014',
-    points: [
-      'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
   },
-  {
-    company: 'UB Nanosatellite Program',
-    position: 'Cofounder, Program Manager',
-    link: 'https://ubnl.space/',
-    daterange: 'October 2010 – June 2012',
-    points: [
-      'Coauthored grant to build a multispectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
-    ],
-  },
+  // {
+  //   company: 'Planetary Resources',
+  //   position: 'Avionics Intern',
+  //   link: 'http://planetaryresources.com',
+  //   daterange: 'January 2018 - May 2018',
+  //   points: [
+  //     'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
+  //     'Developed processes for in lab testing and characterization of various subsystems.',
+  //     'Assembled flight hardware in cleanroom.',
+  //   ],
+  // }, {
+  //   company: 'Facebook',
+  //   position: 'Intern',
+  //   link: 'https://facebook.com',
+  //   daterange: 'June 2013 - September 2013',
+  //   points: [
+  //     'Developed software in python for automated testing of servers.',
+  //     'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
+  //     'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
+  //   ],
+  // }, {
+  //   company: 'SEDS-USA',
+  //   position: 'At Large Board Member',
+  //   link: 'http://seds.org',
+  //   daterange: 'October 2013 - October 2014',
+  //   points: [
+  //     'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
+  //     'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
+  //   ],
+  // },
+  // {
+  //   company: 'UB Nanosatellite Program',
+  //   position: 'Cofounder, Program Manager',
+  //   link: 'https://ubnl.space/',
+  //   daterange: 'October 2010 – June 2012',
+  //   points: [
+  //     'Coauthored grant to build a multispectral imaging satellite as part of the AFRL University Nanosatellite Program.',
+  //     'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
+  //   ],
+  // },
 ];
 
 export default positions;
