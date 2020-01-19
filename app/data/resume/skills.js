@@ -74,6 +74,16 @@ export const skills = [
     compentency: 4,
     category: ['Web Development', 'Databases'],
   },
+  {
+    title: 'MySQL',
+    compentency: 4,
+    category: ['Web Development', 'Databases'],
+  },
+  {
+    title: 'Fortran',
+    compentency: 4,
+    category: ['Language'],
+  },
   // {
   //   title: 'ElasticSearch',
   //   compentency: 3,
@@ -217,7 +227,12 @@ export const skills = [
   },
   {
     title: 'C++',
-    compentency: 1,
+    compentency: 2,
+    category: ['Languages'],
+  },
+  {
+    title: 'Java',
+    compentency: 2,
     category: ['Languages'],
   },
   // {
