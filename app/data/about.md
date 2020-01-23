@@ -1,14 +1,40 @@
 
 #### Intro
+
+
 <!-- I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
 <br>
 I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+ -->
 <br><br>
-#### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
-<br><br>
-#### Some history
 
+#### Currently
+
+
+<!--
+At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).-->
+<br><br>
+
+#### Some history
+I grew up in a village of Zhejiang province, east coast of China. Before age 10, our village has no stable electricity service. We mostly use kerosene lamp at nights. However, we had lots of fun. The kids around our age at that area play similar small gambling games. Each game can be our favorite hobby for several years. Later I became a fan of Chinese chess and it gradually became the main entertainment for a few of us. I remain one of the best players in my school ever since. Due to the slow pace of village life, We also have much opportunity to learn from older generations the stories about malicious spirits, fake underwater animals, etc. Here are some of my highting memories.     
+
+- At age 12 I learned and soon became indulged in playing pingpong. I won my first championship in my high school at age 15.   
+- At age 15, physics became my favorite subject and I became the top student at my high school. At age 17, I graduated from high school(scored #2) and became a physics major in Ningbo University. 
+- During age 11-17, I developed another hobby, i.e., reading martial arts novel. Those beautiful adult's fairy tales(especially those written by comtemprary authors Yong Jin and Long Gu) was the most sweet memories of several generation of Chinese people and played a lasting influence in forming my moral and aesthetic trend.  
+- At age 20(1995), I learned quantum mechanics and fascinated by it ever since. It imposed a deep, lasting influence on how I understand the world. At about the same time, I learned the difficult issue of time arrow from the  pointview of statistical physics, as well as the intriguing Godel's theorem on mathematical logic. All of these three topics are most interesting to me in the coming decades.
+- In 1996, I passed the postdoctoral entrance examination and became first graduate of Ningbo University that entered a master program in physics. The title of my BS thesis was "on classilcal codeing and quantum coding". 
+- In 1997, I extended my MS supervisor's research on a mean-field theory for the quantum transversal Ising model with spin half and spin one cases to general spin case. Meanwhile, I learned to program in Fortran. Also, I learned to do numerical simulations based on Monte Carlo algorithm as well as density matrix renormalization groups(DMRG) algorithms. I ranked #1 in the physcis class on advanced quantum mechannics and group theory. I won championship in the graduate school in Suzhou University. 
+- In 1999, I independently wrote a paper "Some notions about broken-symmetry", proposing a unified way to understand the relation between thermodynamics, statistical mechanics, and mean field theories. In June of 1999, I got my MS degree in theoretical physics from Suzhou University and entered Fudan University to continue my academic career in physics.
+- From 1999 to 2000, I systematically learned continuous group theory and made a new prediction on SO(5) theory proposed by Shoucheng Zhang for high Tc superconductors.
+- In 2000,  I became deeply interested in Buddhism. Together with some friends from philosophical department, we organized many seminars and activities in Fudan University.
+- In 2002, I got my Ph.D in theoretical physcis from Fudan University(Top 5 in China. I publsihed 4 papers in the areas of high Tc superconductivity and magnetic systems. I did a lot MATLAb and Fortran numerical simulations in these projects.
+- In 2003, we proposed a mean field theory for the strongly correlated model for high Tc superconductivity on triangular lattice. I obtained a complete phase diagram after three months of hard work on every details of theory, including a large amount of numerical simulatiions to optimize several sets of different parameters for the projected solution.
+- In 2004, I got a faculty position at the Zhejiang Normal University, begame my teaching on several core physics courses, and started my career as an independent physics researcher. 
+- In 2005, I independently developed a scattering wave function approach on general lattice models to quantum transport calculation. The derivation of the core formula and the benchmark calcualtion was done in less than two weeks. My Ph.D. supervisor was quite amazed by my efficiency. 
+
+
+
+<!--
 - My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
 
 - We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
@@ -79,8 +105,11 @@ Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 - I added this page because so many people complained that my site was just a resume. -->
 
 #### I dream of
-
 - always finding inspiration.
 - enabling a brighter future.
 - doing better.
-- no one checking my commit history for early drafts of this file.
+<!-- 
+- always finding inspiration.
+- enabling a brighter future.
+- doing better.
+- no one checking my commit history for early drafts of this file. -->

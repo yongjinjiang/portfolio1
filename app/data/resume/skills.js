@@ -209,11 +209,11 @@ export const skills = [
     compentency: 3,
     category: ['Web Development', 'Languages'],
   },
-  {
-    title: 'SASS/SCSS',
-    compentency: 3,
-    category: ['Web Development', 'Languages'],
-  },
+  // {
+  //   title: 'SASS/SCSS',
+  //   compentency: 3,
+  //   category: ['Web Development', 'Languages'],
+  // },
   {
     title: 'LESS',
     compentency: 3,

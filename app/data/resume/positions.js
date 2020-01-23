@@ -53,9 +53,9 @@ const positions = [
 
   {
     company: 'University of Minnesota',
-    position: 'Postdoc Associate',
+    position: 'Postdoc Associate&visiting scholar',
     link: 'https://twin-cities.umn.edu/',
-    daterange: 'January 2015 - January 2017',
+    daterange: 'January 2015 - June 2017',
     points: [
       'Investigated the transport property of novel two dimensional crystals, especially thin film of black phosphorous(BP).  ',
       'Sucessfully published two journal papers on BP and received more than 50 citations from international colleagues.',
@@ -68,7 +68,7 @@ const positions = [
     daterange: 'March 2017 - April 2017',
     points: [
       'Explored disorder effect on unconventional superconductivity of Weyl metals using Fortran and MATLAB languages.',
-      'Worked the physics projects with high performance computational resources and git/gitHub system.',
+      'Worked the physics projects with high performance computational resources and git/gitHub techniques.',
       'Rederived the essential results in a recent intriguing paper coauthored by the Nobel Laureate Duncan Haldane, using Mathematica Notebook.',
     ],
   }, {
@@ -78,7 +78,7 @@ const positions = [
     daterange: 'September 2004 - December 2014',
     points: [
       'Taught the courses for physics majors such as electrodynamics, quantum mechanics,linear algebra, solid state theory, computational physics, and quantum field theory.',
-      'Published more than 30 scientific papers (see here for my publication list) with more than 1000 citations. Won a research leadership award.  ',
+      'Published more than 30 scientific papers with more than 1000 citations. Won a research leadership award.  ',
       'Mentored 20 undergraduates and 10 postgraduates.',
     ],
   },
@@ -89,7 +89,7 @@ const positions = [
     daterange: 'September 2002 - July 2004',
     points: [
       'Research on strongly correlated system on triangular lattice, wrote three scientific papers.',
-      'Syatematically studied the phase diagram for t-J model on triangular superconductor',
+      'Sytematically studied the phase diagram for t-J model on triangular superconductor',
     ],
   },
   // {
