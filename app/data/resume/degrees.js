@@ -1,4 +1,17 @@
 const degrees = [
+
+  {
+    school: 'Coursera Specialization Certificate',
+    degree: 'Certificate of "Deep Learning Specialization"',
+    link: 'https://www.fudan.edu.cn/en/',
+    year: 2019,
+  },
+  {
+    school: 'University of Minnesota Twin Cities',
+    degree: 'Certificate of "Data Visualization and analytics"',
+    link: 'https://bootcamp.umn.edu/data/',
+    year: 2019,
+  },
   {
     school: 'Fudan University',
     degree: 'Ph.D. Theoretical Physics',

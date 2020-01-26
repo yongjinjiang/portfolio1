@@ -21,14 +21,16 @@ I am available to consult on interesting projects. I am particularly interested 
 <br><br>
 
 #### Currently
-A tutor in Math, Physics, Science from K-12, Python, data structures and algorithms, Machine Learnig, SQL, and Mandarin. Actively seeking opportunities as a data analyst/scientist or machine learning engineer.
+A tutor in Math, Physics, Science from K-12, Python, data structures and algorithms, Machine Learning, SQL, and Mandarin. Actively seeking opportunities as a data analyst/scientist or machine learning engineer.
+
+
 
 <!--
 At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).-->
 <br><br>
 
 #### Some history
-I grew up in a village of Zhejiang province, east coast of China. Before age 10, our village has no stable electricity service. We mostly use kerosene lamps at night. However, we had lots of fun. The kids around our age at that area play similar small gambling games. Each game can be our favorite hobby for several years. Later I became a fan of Chinese chess. Due to the slow pace of village life, We also have much opportunity to learn from older generations the stories about malicious spirits, fake underwater animals, etc. Here are some important memories of my history.
+I grew up in a village of Zhejiang province, east coast of China. Before age 10, our village has no stable electricity service. We mostly use kerosene lamps at night. However, we had lots of fun. The kids around our age at that area play similar small gambling games. Each game can be our favorite hobby for several years. Later I became a fan of Chinese chess. Due to the slow pace of village life, we also have much opportunity to learn from older generations the stories about malicious spirits, fake underwater animals, etc. Here are some important memories of my history.
 
 
 
