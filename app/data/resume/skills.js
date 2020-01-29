@@ -258,7 +258,7 @@ export const skills = [
   {
     title: 'Python',
     compentency: 5,
-    category: ['Languages', 'Python', 'Web Development', 'ETL'],
+    category: ['Languages', 'Python', 'Web Development', 'ETL', 'Data Science', 'Machine Learning'],
 
   },
   {
