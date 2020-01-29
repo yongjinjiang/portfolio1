@@ -16,9 +16,9 @@ const positions = [
     daterange: 'August 2018 - Present',
     points: [
       'Used supervised and unsupervised machine learning algorithms to analyze the Yelp challenge dataset and built a recommendation system.',
-      'Learned the basics of causal inference and finished a challenge for simulated random dataset on directed acyclic graphs(DAG)',
-      'Learned the basics about the reinforcement learning from the book by Richard S. Sutton and Andrew G. Barto, and used Deep Q-learning (DQL) and deep deterministic policy gradient (DDPG) to solve the quantum protocal(i.e., time dependence of the system) to drive a simple quantum system into a particular state.',
-      'Built multiple dashboards for data visualization  using Flask, D3, Plotly, and React, ',
+      'Finished a challenge to find the minimum robust features(as an example of causal inference) for simulated random dataset on directed acyclic graphs(DAG)',
+      'Systematically learned the basics about the reinforcement learning from the book by Richard S. Sutton and Andrew G. Barto, and used Deep Q-learning (DQL) and deep deterministic policy gradient (DDPG) to solve the quantum protocal(i.e., time dependence of the system) to drive a simple quantum system into a particular state.',
+      'Built multiple data visualization dashboards and websites using Flask, D3, Plotly, and React/express/node',
       'Performed supporting analysis and managing databases to ensure data integrity using Pandas, Tableau, R, and MySQL, MongoDB, SQLite',
       'Used spark, mrjob as Big data skills to do data transformation.',
       'Worked with multiple deep learning projects using convolutionary neural network(CNN) and recurrent neural networks(RNN), such as object detection, face recognition, machine translation, data format translation, and many others.',
