@@ -43,7 +43,7 @@ At Arthena I have learned how to build teams and manage people, build relationsh
    <summary> Before college</summary>
    <ul>
    <li>
-I grew up in a village of Zhejiang province, 300 km south to Shanghai, China. Before age 10, our village has no stable electricity service. We mostly use kerosene lamps at night. Yet there were lots of fun in the quiet, slow village life. We raise many animals such as cattle, pigs, chickens, cats, dogs, etc. We play water, climb mountains, grow vegetables, grow fruits, catch fish, fly kites, and play many gambling games. We also have much opportunity to learn from older generations the stories about malicious spirits, fake underwater animals, etc. I became a Chinese chess and Ping-pong player. I completed education from elementary to high school in my hometown. Then I went to various universities in cities for further learning and then work.</li>
+I grew up in a village of Zhejiang province, 300 km south to Shanghai, China. Before age 10, our village has no stable electricity service. We mostly use kerosene lamps at night. Yet there were lots of fun in the quiet, slow village life. We raise many animals such as cattle, pigs, chickens, cats, dogs, etc. We play water, climb mountains, grow vegetables, grow fruits, catch fish, fly kites, and play many gambling games. We also have much opportunity to learn from older generations the stories about malicious spirits, fictitious underwater animals, etc. I became a Chinese chess and Ping-pong lover. I completed education from elementary to high school in my hometown. Then I went to various universities in cities for further learning and then work.</li>
  <li>At age 12 I learned and soon became indulged in <b>playing ping-pong</b>, for which I won my first championship in my high school at age 15.</li>
 <li> At age 14, <b>physics</b> became my favorite subject and I became the top student at my high school. At age 17, I graduated from high school(ranked #2) and became a physics major at Ningbo University.</li>
 <li>During the age of 11-17, I developed a hobby, i.e., <b>reading martial arts novels</b>. Those beautiful adult fairy tales(especially those written by contemporary authors Yong Jin and Long Gu) were the sweetest memories of my teenage periods and played a lasting influence in forming my moral and aesthetic trend.</li>
@@ -74,7 +74,7 @@ I grew up in a village of Zhejiang province, 300 km south to Shanghai, China. Be
 </details>
 <details> <summary> Postdoc Research</summary>
 <ul>
-<li>I worked as a postdoc researcher in the Center of Advanced Study at Tsinghua University(Beijing) from 2002 to 2004. In 2003, three of us(the leader is Tao Li, an outstanding expert on the strongly correlated physics in China) proposed a mean-field theory for the strongly correlated model for high Tc superconductivity on the triangular lattice. I obtained a complete phase diagram after three months of hard work on every detail of theory, including a large number of numerical simulations to <b>optimize several sets of different parameters</b> for the projected solution.</li>
+<li>I worked as a postdoc researcher in the Center of Advanced Study at Tsinghua University(Beijing) from 2002 to 2004. In 2003, three of us(the leader is Tao Li, an outstanding expert on the strongly correlated physics) proposed a mean-field theory for the strongly correlated model for high Tc superconductivity on the triangular lattice. I obtained a complete phase diagram after three months of hard work on every detail of theory, including a large number of numerical simulations to <b>optimize several sets of different parameters</b> for the conjectured solution.</li>
 </ul>
 </details>
 
@@ -83,8 +83,8 @@ I grew up in a village of Zhejiang province, 300 km south to Shanghai, China. Be
 <li>In 2004, I got a faculty position at the Zhejiang Normal University, began my teaching career on several physics courses, and started my research career as an independent principal investigator and the leader of an academic team.</li>
 <li>In 2005, I independently <b>developed a new approach</b> for quantum transport calculation on general lattice models. The derivation of the core formula and the benchmark calculation was done in less than two weeks. This kind of approach was adopted years later by the authors of Python package Kwant, which now became one of the most popular packages to do quantum transport simulations.</li>
 <li>In 2005-2007, we applied the newly developed method to <b>quantum transport calculations</b> related to the topic of spin hall effect and published three papers in the internationally well recognized Journal ---Physical Review B. I was the first person in our university to publish papers in Physical Review series. Among these works, we <b>proposed a new model</b>, i.e., lateral spin-orbit coupling model, which influenced some future experimental development.</li>  
-<li>In 2005, we systematically analyzed a basic problem in theoretical physics, i.e., the transformation of the phase(as well as other quantities) with respect to the coordinate frame, for classical and quantum equations, and discussed some implications of this analysis on quantum mechanics.</li>
-<li>In 2007, I visited Purdue University for 4 months. My collaborator Prof. JiangPing Hu proposed an urgent project, i.e., to work out a mean-field theory of superconductivity in graphene. After two weeks of intensive work, I completed most of the analytical and numerical work. We obtained some neat results, which later become widely known to the field. This work was published in May of 2008. The world-leading physicist, Carlo Beenakker at Leiden University, reported our work in his Colloquium published in Review of Modern Physics in Oct 2008.</li>
+<li>In 2005, we systematically analyzed a basic problem in theoretical physics, i.e., the transformation of the phase(as well as other related quantities) with respect to the coordinate frame, for classical and quantum equations, and discussed some implications of this analysis on quantum mechanics.</li>
+<li>In 2007, I visited Purdue University for 4 months. My collaborator Prof. JiangPing Hu proposed an urgent project, i.e., to work out a mean-field theory of superconductivity in graphene. After two weeks of intensive work, I completed most of the <b>analytical and numerical work</b>. We obtained some neat results, which later become widely known to the field. This work was published in May of 2008. The world-leading physicist, Carlo Beenakker at Leiden University, reported our work in his Colloquium published in Review of Modern Physics in Oct 2008.</li>
 <li>
 <details> <summary>Religious Conversion</summary>
 <ol>
@@ -105,10 +105,10 @@ I grew up in a village of Zhejiang province, 300 km south to Shanghai, China. Be
 <ul>
 <li>
 During 2014-2017, I worked with Prof. Tony Low at the University of Minnesota. We <b>proposed a model</b> to describe the black phosphorous thin film and made several predictions on its optical properties. Our work was widely and continually cited(over 500 citations now) by researchers all over the world. From 2015, <b>Python</b> became one of the key coding languages of mine. And I learned to work with several most popular computational tools like vasp, wannier90, etc, for physicists working in material calculations.</li>
-<li>In 2017, I visited Prof. Yi Li at the University of John Hopkins. Using <b>Mathematica</b>, I neatly derived the core theories of a work on unconventional superconductivity of Weyl metals, which was co-authored by the Nobel Laureate Duncan Haldane. Furthermore, I calculated some disorder effects for a one-dimensional toy model.</li>
-<li>In 2017, I visited Taiwan(at National Sun Yat-Sen University) for three months. I love Taiwan! I like the people and the food. I love the authentic Chinese traditions, cultural openness, and the freedom of air there. Most importantly, I even <b>found the disconnected family</b> of my grandfather's brother who left hometown 70 years ago!! On the other hand, I analyzed a Weyl model
-and explored its spin transport properties through Python numerical simulation and symmetry analysis.</li> 
-<li>In 2018, I visited Ningbo Institute of Industrial Technology for 4 months. During those months, I efficiently commanded and utilized some group-theoretical techniques to <b>build effective models with only a few tunable parameters that can capture the most important data structure</b> of the dataset for band structures obtained by detailed, first principle computations using thousand of wave components. In addition, working with Python package Kwant, I obtained the Hofstadter butterfly of twisted graphene bilayer, the star material that emerged in the physics world in 2018.</li>
+<li>In 2017, I visited Prof. Yi Li at the University of John Hopkins. Using <b>Mathematica</b>, I neatly rederived the core formula in a recent work on unconventional superconductivity of Weyl metals, co-authored by the 2016 Nobel Laureate Duncan Haldane. Furthermore, I calculated some disorder effects for a one-dimensional toy model.</li>
+<li>In 2017, I visited Taiwan(at National Sun Yat-Sen University) for three months. I love Taiwan! I like the people and the food. I love the authentic Chinese traditions, cultural openness, and the freedom of air there. Most importantly, I even <b>found the disconnected family</b> of my grandfather's brother who left hometown 70 years ago!! On the academic side, I analyzed a Weyl model
+and explored its spin transport properties through <b>Python numerical simulation and symmetry analysis</b>.</li> 
+<li>In 2018, I visited Ningbo Institute of Industrial Technology for 4 months. During those months, I efficiently commanded and utilized some group-theoretical techniques to <b>build effective models with only a few tunable parameters that can capture the most important data structure</b> of the dataset for band structures obtained by detailed, first principle computations using thousands of wave components. In addition, working with <b>Python package Kwant</b>, I obtained the Hofstadter butterfly of twisted graphene bilayer, the star material that emerged in the physics world in 2018.</li>
 </ul>
 </details>
 <details> <summary> Currently</summary> 
@@ -191,7 +191,7 @@ Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 
 #### I dream of
 - getting a deeper understanding of how the world is working.
-- making the world a better place for people to live
+- making the world a better place for people to live.
 
 
 

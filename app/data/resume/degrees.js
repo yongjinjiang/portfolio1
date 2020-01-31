@@ -3,13 +3,13 @@ const degrees = [
   {
     school: 'Coursera Specialization Certificate',
     degree: 'Certificate of "Deep Learning Specialization"',
-    link: 'https://www.fudan.edu.cn/en/',
+    link: 'https://www.coursera.org/account/accomplishments/specialization/8M8C5GE53UYD',
     year: 2019,
   },
   {
     school: 'University of Minnesota Twin Cities',
     degree: 'Certificate of "Data Visualization and analytics"',
-    link: 'https://bootcamp.umn.edu/data/',
+    link: 'https://umn.credly.com/member-badges/16703400',
     year: 2019,
   },
   {

@@ -23,7 +23,8 @@ const positions = [
       'Used spark, mrjob as Big data skills to do data transformation.',
       'Worked with multiple deep learning projects using convolutionary neural network(CNN) and recurrent neural networks(RNN), such as object detection, face recognition, machine translation, data format translation, and many others.',
       'Obtained "deep learning specialization" certificate from Coursera Specialization Certificate',
-      'Obtained "Data Visualization and Analytics" certificate from Trilogy Education at University of Minnesota(twin cities)'
+      'Obtained "Data Visualization and Analytics" certificate from Trilogy Education at University of Minnesota(twin cities)',
+      'Tutor in math, physics, science from K-12, Python, data structures and algorithms,  and Mandarin.',
     ],
   },
   {
@@ -58,7 +59,7 @@ const positions = [
     daterange: 'January 2015 - June 2017',
     points: [
       'Investigated the transport property of novel two dimensional crystals, especially thin film of black phosphorous(BP).  ',
-      'Sucessfully published two journal papers on BP and received more than 50 citations from international colleagues.',
+      'Sucessfully published two journal papers on BP and received more than 500 citations from international colleagues.',
       'Successfully commanded and shared within the work group some core techniques related to material and model calculation such as VASP, Wannier90, pythonTB and Kwant, etc.',
     ],
   }, {
