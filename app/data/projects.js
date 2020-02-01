@@ -94,18 +94,6 @@ const data2 = [
 
 const data3 = [
   {
-    title: 'Tunable optical properties of multilayer black phosphorus thin films',
-    subtitle: 'NOVEMBER, 2019',
-    link: '/BP.pdf',
-    image: '/images/projects/BP.jpeg',
-    date: '2014-8-27',
-    desc: 'An effecive model was proposed to describe few-layer BP films, '
-    + 'which was first realized in early 2014. Based on this model, the optical conductivity '
-    + 'tensor was numerically calculated. The predicted optical data was analyzed extensively as'
-    + ' a function of different features such as'
-    + ' thickness, doping, and light polarization. (Reference: Phys. Rev. B 90, 075434(2014). 457 Citations) ',
-  },
-  {
     title: 'A proposal for pure valley current generation in graphene',
     subtitle: '2013-1-23',
     // link: '/projects/D3-Journalism/',
@@ -139,6 +127,18 @@ const data3 = [
       + 'Based on this scattering wave,  various quantum transport properties can be calcuated.  This approach was succesfully applied to study '
       + 'the edge spin-orbital coupled(ESO) model and predicted that ESO model can have some experimental significance. '
       + ' Reference: Physical Review B 74 (7), 075302(2006). 49 citations.',
+  },
+  {
+    title: 'Tunable optical properties of multilayer black phosphorus thin films',
+    subtitle: 'NOVEMBER, 2019',
+    link: '/BP.pdf',
+    image: '/images/projects/BP.jpeg',
+    date: '2014-8-27',
+    desc: 'An effecive model was proposed to describe few-layer BP films, '
+    + 'which was first realized in early 2014. Based on this model, the optical conductivity '
+    + 'tensor was numerically calculated. The predicted optical data was analyzed extensively as'
+    + ' a function of different features such as'
+    + ' thickness, doping, and light polarization. (Reference: Phys. Rev. B 90, 075434(2014). 457 Citations) ',
   },
 ];
 
