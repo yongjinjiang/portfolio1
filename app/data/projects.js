@@ -84,7 +84,7 @@ const data2 = [
     title: 'Style transfer: generating an artistic picture',
     subtitle: 'January, 2019',
     // link: '/projects/D3-Journalism/',
-    link: 'https://github.com/yongjinjiang/DataFormatTranslation',
+    link: 'https://github.com/yongjinjiang/Neural-Style-Transfer',
     image: '/images/projects/content_plus_style.jpeg',
     date: '2019-1-20',
     desc: ' A "content" image  and a "style" image, is mixed into a "generated" image by the CNN neural network. A hybrid cost function is defined to realize the style transfer. ',
@@ -96,7 +96,7 @@ const data3 = [
   {
     title: 'Tunable optical properties of multilayer black phosphorus thin films',
     subtitle: 'NOVEMBER, 2019',
-    link: 'https://arxiv.org/pdf/1404.4030',
+    link: '/BP.pdf',
     image: '/images/projects/BP.jpeg',
     date: '2014-8-27',
     desc: 'An effecive model was proposed to describe few-layer BP films, '
@@ -109,7 +109,7 @@ const data3 = [
     title: 'A proposal for pure valley current generation in graphene',
     subtitle: '2013-1-23',
     // link: '/projects/D3-Journalism/',
-    link: 'https://arxiv.org/pdf/1209.1770.pdf',
+    link: '/Pumping.pdf',
     image: '/images/projects/pumping.jpeg',
     date: '2013-1-23',
     desc: 'There are two “flavors” (or, “valleys”) of electrons in graphene(i.e., the single layer of graphite), corresponding to two regions in momentum space. '
@@ -121,9 +121,9 @@ const data3 = [
   {
     title: 'Unconventional superconductivity in graphene',
     subtitle: 'May, 2008',
-    link: 'https://github.com/yongjinjiang/ReinformentLearning-QuantumWellStatePreparation/',
+    link: '/d+id.pdf',
     image: '/images/projects/d+id.jpeg',
-    date: '2019-11-20',
+    date: '2008-5-20',
     desc: 'The point group symmetry of graphene was used to systematically analyze possible superconducting states in graphene'
        + ' with local spin singlet pairing order. A special state, d1+id2 state was studied in detail, especially, its Andreev conductivity was'
        + 'calculated and analyzed with respect to features such as doping, pairing strength. '
@@ -132,9 +132,9 @@ const data3 = [
   {
     title: 'scattering wave approach to quantum transport',
     subtitle: 'NOVEMBER, 2006',
-    link: 'https://github.com/yongjinjiang/ReinformentLearning-QuantumWellStatePreparation/',
+    link: '/ScatteringWave.pdf',
     image: '/images/projects/SolveScatteringWave.jpeg',
-    date: '2019-11-20',
+    date: '2006-8-1',
     desc: 'A set of linear equations was derived to rigorously solve the quantum scattering wave function in a multi-terminal lattice model. '
       + 'Based on this scattering wave,  various quantum transport properties can be calcuated.  This approach was succesfully applied to study '
       + 'the edge spin-orbital coupled(ESO) model and predicted that ESO model can have some experimental significance. '

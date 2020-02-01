@@ -90,7 +90,7 @@ I grew up in a village of Zhejiang province, 300 km south to Shanghai, China. Be
 <ol>
 <li>In 2007, during the 4 months of my visit at Purdue, I <b>learned Gospel</b> from a Lutheran missionary. </li>
 <!-- I started to find harmony between Buddhism and Christianity and gradually accepted the fact that there was a deep difference between them. -->
-<li>In 2009, I was <b>converted from Buddhism to Christian</b> after one and nearly two years of questioning and speculations.</li>
+<li>In 2009, I was <b>converted from Buddhism to Christian</b> after nearly two years of questioning and speculations.</li>
 </ol>
 </detail>
 </li>
