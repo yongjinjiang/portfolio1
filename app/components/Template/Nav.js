@@ -20,7 +20,7 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Yongjin. I like learning new things, exchanging ideas and enjoy new understanding of the world.
+      <p>Hi, I&apos;m Yongjin(James). I like learning new things, exchanging ideas and enjoy new understanding of the world.
             {/* I have been working a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
             the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
             at <a href="https://matroid.com">Matroid</a>, <a href="https://planet.com">Planet</a>, <a href="https://planetaryresources.com">Planetary Resources</a>, <a href="https://facebook.com">Facebook</a>, and <a href="https://seds.org">SEDS</a>. */}

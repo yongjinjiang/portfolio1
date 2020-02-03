@@ -28,7 +28,7 @@ class Main extends Component {
   render() {
     return (
       <div id="wrapper">
-        <Helmet titleTemplate="%s | Yongjin Jiang" defaultTitle="Yongjin Jiang" />
+        <Helmet titleTemplate="%s | Yongjin James Jiang" defaultTitle="Yongjin James Jiang" />
         <Header />
         <div id="main">
           {this.props.children}

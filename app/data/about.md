@@ -52,7 +52,7 @@ I grew up in a village of Zhejiang province, 300 km south to Shanghai, China. Be
 
 <details> <summary> BS years</summary>
 <ul>
- <li>At age 20(1995), I learned <b>quantum mechanics</b> and fascinated by it ever since. It imposed a deep, lasting influence on how I understand the world. At about the same time, I learned the puzzling issue of time arrow from the point of view of statistical physics, as well as the intriguing Godel's theorem on mathematical logic. All of these three topics are most interesting to me in the coming decades.</li>
+ <li>At age 20(1995), I learned <b>quantum mechanics</b> and fascinated by it ever since. It imposed a deep, lasting influence on how I understand the world. At about the same time, I learned the issue of time arrow from the point of view of statistical physics, as well as the intriguing Godel's theorem on mathematical logic. All of these three topics are most interesting to me in the coming decades.</li>
 <li>
  In 1996, I passed the postgraduate entrance examination and became the first graduate of Ningbo University that entered a master's program in physics. The title of my BS thesis was "on classical coding and quantum coding".</li>
  </ul>

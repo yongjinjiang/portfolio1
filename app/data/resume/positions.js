@@ -1,17 +1,18 @@
 
 const positions = [
+  // {
+  //   company: 'St. Catherine University',
+  //   position: 'Adjunct Professor',
+  //   link: 'https://www.stkate.edu/',
+  //   daterange: 'September 2019 - December 2019',
+  //   points: [
+  //     'Teach conceptual physics to college students.',
+  //     'Help a group of students read journal papers and understand how deep learning, together with nuclear magnetic imaging, can help diagonize breast cancer.',
+  //   ],
+  // },
   {
-    company: 'St. Catherine University',
-    position: 'Adjunct Professor',
-    link: 'https://www.stkate.edu/',
-    daterange: 'September 2019 - December 2019',
-    points: [
-      'Teach conceptual physics to college students.',
-      'Help a group of students read journal papers and understand how deep learning, together with nuclear magnetic imaging, can help diagonize breast cancer.',
-    ],
-  }, {
-    company: 'Sole Proprietor ',
-    position: 'Sole Proprietor',
+    company: 'Sole Proprietor',
+    position: 'Company Name',
     link: '/',
     daterange: 'August 2018 - Present',
     points: [
