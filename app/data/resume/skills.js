@@ -197,12 +197,12 @@ export const skills = [
   },
   {
     title: 'Tableau',
-    compentency: 3,
+    compentency: 4,
     category: ['Tools', 'Data Science', 'ETL'],
   },
   {
     title: 'R',
-    compentency: 3,
+    compentency: 4,
     category: ['Languages', 'Data Science', 'ETL'],
   },
   {
