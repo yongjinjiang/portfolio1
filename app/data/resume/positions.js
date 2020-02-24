@@ -39,6 +39,7 @@ const positions = [
       'Analyzed the DFT dataset obtained by the computation team and uncover the underlying physics story.',
       'Follow up exciting progresses on the academic frontier and propose new research projects.',
       'Proposed a project on twisted bilayer graphene and successfully calculated the Landau-levels (Hofstadter-Butterfly) for twisted bilayer graphene, the star material of 2018.',
+      'Learned some abstract algebra and followed with some most exciting theoretical progress in condensed matter theory, i,e., topological classification based on crystalline symmetries.',
     ],
   },
 
