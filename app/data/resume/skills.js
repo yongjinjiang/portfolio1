@@ -39,7 +39,7 @@ export const categories = [
   //   color: '#c3423f',
   // },
   {
-    name: 'Web Development',
+    name: 'Data Visualization and Web Development',
     color: '#cc7b94',
   },
   {
@@ -52,17 +52,17 @@ export const skills = [
   {
     title: 'Javascript',
     compentency: 4,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Data Visualization and Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'Node.JS',
     compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
+    category: ['Data Visualization and Web Development', 'Frameworks', 'Javascript'],
   },
   {
     title: 'React',
     compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
+    category: ['Data Visualization and Web Development', 'Frameworks', 'Javascript'],
   },
   {
     title: 'Bash',
@@ -72,27 +72,27 @@ export const skills = [
   {
     title: 'Amazon Web Services',
     compentency: 3,
-    category: ['Web Development', 'Tools'],
+    category: ['Data Visualization and Web Development', 'Tools'],
   },
   {
     title: 'Heroku',
     compentency: 4,
-    category: ['Web Development', 'Tools'],
+    category: ['Data Visualization and Web Development', 'Tools'],
   },
   {
     title: 'MongoDB',
     compentency: 4,
-    category: ['Web Development', 'Databases'],
+    category: ['Data Visualization and Web Development', 'Databases'],
   },
   {
     title: 'MySQL',
     compentency: 4,
-    category: ['Web Development', 'Databases'],
+    category: ['Data Visualization and Web Development', 'Databases'],
   },
   {
     title: 'SQL Server',
     compentency: 3,
-    category: ['Web Development', 'Databases'],
+    category: ['Data Visualization and Web Development', 'Databases'],
   },
 
   {
@@ -113,7 +113,7 @@ export const skills = [
   {
     title: 'SQLite3',
     compentency: 4,
-    category: ['Web Development', 'Databases'],
+    category: ['Data Visualization and Web Development', 'Databases'],
   },
   // {
   //   title: 'Redis',
@@ -138,7 +138,7 @@ export const skills = [
   {
     title: 'Express.JS',
     compentency: 2,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
+    category: ['Data Visualization and Web Development', 'Frameworks', 'Javascript'],
   },
   // {
   //   title: 'Koa',
@@ -148,17 +148,17 @@ export const skills = [
   {
     title: 'Plotly',
     compentency: 4,
-    category: ['Web Development', 'Javascript', 'Python'],
+    category: ['Data Visualization and Web Development', 'Javascript', 'Python'],
   },
   {
     title: 'D3',
     compentency: 4,
-    category: ['Web Development', 'Design', 'Javascript'],
+    category: ['Data Visualization and Web Development', 'Design', 'Javascript'],
   },
   {
     title: 'Flask',
     compentency: 4,
-    category: ['Web Development', 'Frameworks', 'Python'],
+    category: ['Data Visualization and Web Development', 'Frameworks', 'Python'],
   },
   // {
   //   title: 'Product Development',
@@ -203,7 +203,17 @@ export const skills = [
   {
     title: 'R',
     compentency: 4,
-    category: ['Languages', 'Data Science', 'ETL'],
+    category: ['Languages', 'Data Science', 'ETL', 'Machine Learning', 'Data Visualization and Web Development'],
+  },
+  {
+    title: 'Tidyverse',
+    compentency: 3,
+    category: ['R', 'Data Science', 'ETL'],
+  },
+  {
+    title: 'Shiny',
+    compentency: 3,
+    category: ['R', 'Data Science', 'Data Visualization and Web Development'],
   },
   {
     title: 'Google Cloud Platform',
@@ -237,13 +247,13 @@ export const skills = [
   // },
   {
     title: 'HTML',
-    compentency: 3,
-    category: ['Web Development', 'Languages'],
+    compentency: 4,
+    category: ['Data Visualization and Web Development', 'Languages'],
   },
   {
     title: 'CSS',
-    compentency: 3,
-    category: ['Web Development', 'Languages'],
+    compentency: 4,
+    category: ['Data Visualization and Web Development', 'Languages'],
   },
   // {
   //   title: 'SASS/SCSS',
@@ -258,7 +268,7 @@ export const skills = [
   {
     title: 'Python',
     compentency: 5,
-    category: ['Languages', 'Python', 'Web Development', 'ETL', 'Data Science', 'Machine Learning'],
+    category: ['Languages', 'Python', 'Data Visualization and Web Development', 'ETL', 'Data Science', 'Machine Learning'],
 
   },
   {
