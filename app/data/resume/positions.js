@@ -25,6 +25,7 @@ const positions = [
       'Worked with multiple deep learning projects using convolutionary neural network(CNN) and recurrent neural networks(RNN), such as object detection, face recognition, machine translation, data format translation, and many others.',
       'Obtained "deep learning specialization" certificate from Coursera Specialization Certificate',
       'Obtained "Data Visualization and Analytics" certificate from Trilogy Education at University of Minnesota(twin cities)',
+      'Adjunct professor at St. Catherine University. ',
       'Tutor in math, physics, science from K-12, Python, data structures and algorithms,  and Mandarin.',
     ],
   },
