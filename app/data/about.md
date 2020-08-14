@@ -1,14 +1,20 @@
 
 #### Intro
 
-I have 15+ years of theoretical modeling, numerical simulation, and data analysis experience. Being trained as a theoretical physicist, my solid skills in coding and numerical simulations include Python, MATLAB/Mathematic, and Fortran programming. My data analysis skills are entangled with and deeply benefited from physical,  mathematical and statistical modeling skills. Most of my scientific findings were presented in over 30 peer-reviewed journal publications.
+I have 15+ years of theoretical modeling, numerical simulation, and data analysis experience. Being trained as a theoretical physicist, my solid skills in coding and numerical simulations include Python, MATLAB/Mathematic, and Fortran programming. My data analysis skills are entangled with and deeply benefited from physical,  mathematical and statistical modeling skills. Most of my scientific findings were presented in over 30 peer-reviewed journal [publications](https://scholar.google.com/citations?user=uOK_OjMAAAAJ&hl=en).
 
 
 <br/>
 In addition, I mentored a research group up to 4 members and collaborated effectively with other teams. I am proud of myself for taking the initiative to propose the novel idea, implement the process, conducting numerical computations, analyzing the results, and presenting our findings to high impact journals.
 
 <br/>
-I believe that many real-life issues can be properly modeled with our rational intuition powered by the fast-developing big data and machine learning skills, as well as the exciting development in quantum computing.  In recent years,  I have been learning and gaining hands-on experience in cutting-edge skills in data wrangling, data visualization, and machine learning. Now I am looking for job opportunities as a data analyst, data engineer,  machine learning engineer, or web developer. 
+I believe that many real-life issues can be properly modeled with our rational intuition powered by the fast-developing big data and machine learning skills, as well as the exciting development in quantum computing.  In recent years,  I have been learning and gaining hands-on experience in cutting-edge skills in data wrangling, data visualization, and machine learning. 
+
+
+<br/>
+I am passionate in learning and sharing. 
+
+<!-- Now I am looking for job opportunities as a data analyst, data engineer,  machine learning engineer, or web developer.  -->
 
 <!-- 
 <br/>
@@ -117,8 +123,13 @@ and explored its spin transport properties through <b>Python numerical simulatio
 </details>
 <details> <summary> Currently</summary> 
 <ul>
-<li>In June of 2018, I decided to get training in data science(data visualization, data engineering, data analysis, and machine learning) and <b>pursue a data science career</b>.</li>
-<li>Adjunct professor at St. Catherine University. A tutor in math, physics, science from K-12, Python, data structures and algorithms,  and Mandarin.  Actively seeking opportunities as a data analyst/scientist or machine learning engineer. </li>
+<li>In June of 2018, I decided to get some computer science enrichments learning, especially, in data science(data visualization and machine learning).</li>
+<li>Adjunct professor at St. Catherine University(2019). </li>
+<li>A tutor in math, physics, science from K-12, Python, data structures and algorithms,  and Mandarin.</li>
+<li>Recently, I proudly became a Math and science teacher in Jieming Mandarin immersion Academy(2020) </li>
+
+
+  <!-- Actively seeking opportunities as a data analyst/scientist or machine learning engineer.  -->
 </ul>
 </details>
 
